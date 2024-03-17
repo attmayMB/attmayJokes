@@ -83,6 +83,7 @@ const quotes = [
     "I was studying to be a financial advisor but it wasn't going well. I lost interest.",
     "My mom called to warn me that someone was driving the wrong way on the highway I was on. It wasn't one person - it was everyone!",
     "I'm considering a new line of work that I can really see myself doing. I want to be a mirror inspector!",
+    "I'm trying a new hobby to make some cash: I'm building boats in my attic. Sails are through the roof!",
 ];
 
 const quoteEl = document.getElementById("quote");
